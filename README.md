@@ -1,5 +1,8 @@
 # Audio-Classification
 # Ambient Assisted living
+##CNN-based Audio Classification for Environmental Sounds, Ambient
+Assisted Living and Public Transport Environments using an Extensive
+Combined Dataset
 By [Arunodhayan](https://www.linkedin.com/in/arunodhayan-sampath-56277798/), [Danny Kowerko](https://www.tu-chemnitz.de/informatik/mc/staff.php.en), and [Rene erler](https://www.tu-chemnitz.de/informatik/mc/staff.php.en)
 
 ## Introduction
@@ -46,6 +49,12 @@ Then
 You can download 
 ESC-50 - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT
 Audioset - There were no raw data in audioset. Get the CSV files Meta data and run the script download.sh
+
+##To start the work
+Create the below list of folders
+Dataset --- to place the dataset
+Model and confusion matrix folder will be created while performing training
+
 
 
 ```
