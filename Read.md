@@ -20,7 +20,7 @@ This repository will be in update
 
 
 
-<i>Esc-50 Accuracy 85.2, AAL-94 Accuracy 70.66.</i>
+<i>Esc-50 Accuracy 85.2%, AAL-94 Accuracy 70.66%.</i>
 
 ## Installation
 The Installation of Cuda Cudnn and Open cv see the link below
