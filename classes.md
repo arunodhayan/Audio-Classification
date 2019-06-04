@@ -3,7 +3,7 @@
     <img src="Media.png" alt="Trulli" width="200" height="50">
     <h2 align="center">Real-Time Audio Scene classification using CNN </h2>
 
-    <h2>List of classes</h2>
+   
 
    <table border height="700px" width=100%>
 	<tr>
@@ -144,8 +144,7 @@
 		<td colspan="3">Ringtone</td>
 		<td colspan="3">-</td>
 	</tr>
-  <p> Red cells indicates that sound can be done by humans without the need of accessories </p>
-  <p> White cells indicates that sound can be done by MIDI </p>
+ 
 
 
 
