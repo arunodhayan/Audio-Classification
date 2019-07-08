@@ -13,7 +13,7 @@ Combined Dataset
 
 E-Mail: arunodhayan13@gmail.com
 
-Source codes: The some of source codes were used from Stefan kahl Acoustic event Detection(copyright)
+
 
 This project is licensed under the terms of the MIT license.
 
